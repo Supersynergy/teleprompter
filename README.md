@@ -1,5 +1,9 @@
 # Teleprompter
 
+![Teleprompter](docs/assets/catalog-cover.png)
+
+**🧭 Explore:** [Quick start](#quick-start) · [Architecture](#intended-architecture) · [Product shape](#product-shape) · [License](#license)
+
 > Mac-native teleprompter that scrolls with your voice using a Rust core, SwiftUI shell, and local whisper.cpp speech recognition.
 
 Teleprompter is for recording scripts, talks, demos, and sales videos without cloud transcription. The app should feel native on macOS, keep audio local, and make the first run obvious for contributors.
@@ -43,4 +47,4 @@ whisper.cpp
 
 ## License
 
-License is not declared yet. Add one before publishing binaries or accepting external contributions.
+[MIT License](LICENSE).
