@@ -1,6 +1,9 @@
+<p align="center">
+  <img src="docs/assets/catalog-cover.png" alt="Teleprompter" width="960">
+</p>
+
 # Teleprompter
 
-![Teleprompter](docs/assets/catalog-cover.png)
 
 **🧭 Explore:** [Quick start](#quick-start) · [Architecture](#intended-architecture) · [Product shape](#product-shape) · [License](#license)
 
